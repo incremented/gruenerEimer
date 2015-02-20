@@ -1,8 +1,7 @@
 package gruenerEimer;
 
 /**
- * 
- * @author David W
+ * asdfasfasdfd W
  *
  */
 public class Test {
